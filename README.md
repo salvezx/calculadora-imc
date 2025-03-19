@@ -1,4 +1,4 @@
-# calculadora-imc
+
 // script-imc.js
 
 // Função para calcular o IMC
